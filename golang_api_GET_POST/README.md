@@ -1,8 +1,8 @@
 # GoLang Example API project.
-
-Example POST request
-Do not send transactionID. Because "getNextID" function will create it auotmatically.
 ```sh
+Example POST request.
+Do not send transactionID. Because "getNextID" function will create it auotmatically.
+
 {
 	"receiverID": "Alibay",
 	"currency": "USD",
